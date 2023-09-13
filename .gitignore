@@ -3,7 +3,6 @@
 Thumbs.db
 
 # Ignore dependencies
-node_modules/
 vendor/
 
 # Ignore environment-specific files
